@@ -1,9 +1,0 @@
-2744-F2       FLOW       B_2y       FLOW       1       0.4
-2743-21       FLOW       B_2y       FLOW       1       0.6
-2743-20       FLOW       C_2y       FLOW       1       0.749063670411985
-2744-F2       FLOW       B_5y       FLOW       1       0.4
-2743-21       FLOW       B_5y       FLOW       1       0.6
-2743-20       FLOW       C_5y       FLOW       1       0.749063670411985
-2744-F2       FLOW       B_10y       FLOW       1       0.4
-2743-21       FLOW       B_10y       FLOW       1       0.6
-2743-20       FLOW       C_10y       FLOW       1       0.749063670411985
