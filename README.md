@@ -5,17 +5,22 @@
 ## 功能簡介
 #### 分析複數集水區降雨逕流歷線
 輸入集水區雨量、CN值等參數後批次演算多個集水區各重現期的逕流歷線，並可選擇是否進行比流量計算
-<img src="./01UI.png" alt="01UI" style="zoom: 30%;" />
+<img src="./01UI.png" alt="01UI" style="zoom: 15%;" />
 
 #### 視覺化計算成果
 
 以折線圖的方式呈現演算過程及成果，包含降雨逕流歷線、單位歷線
-<img src="./02hyd.png" alt="02hyd" style="zoom:10%;" />
+<img src="./02hyd.png" alt="02hyd" style="zoom:5%;" />
 
 #### 輸出報表及SWMM輸入檔
 
 以csv及SWMM輸入檔呈現演算過程及成果
-<img src="./04inSWMM.png" alt="04inSWMM" style="zoom:50%;" />      <img src="./05CSV.png" alt="05CSV" style="zoom:50%;" />
+
+<img src=".\05CSV.png" alt="05CSV" style="zoom:25%;" /> 
+
+
+
+
 
 ## 演算法
 
